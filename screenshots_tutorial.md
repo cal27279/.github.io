@@ -1,0 +1,116 @@
+
+# Screen Capturing Best Practices
+
+Screenshots are essential for almost any documentation as they can be a great way to provide a clear, visual explanation for any kind of internal of external process or set of instructions. Standardization and keeping a consistent voice throughout an organization's documentation is essential to innovation, especially because having effective documentation reduces the time of search, and allows employees to have a great source of knowledge that will standardize operating procedures, thus saving man-hours and millions of dollars for IT organizations across the globe.
+
+  
+
+Although screen capturing might be perceived as an easy task, several aspects of the finished product have to be taken into consideration when making screenshots - image size, image quality, information privacy, and text readability.
+
+  
+
+The main idea behind this section of IncFile Documentation Style Guide is to show you how to create great informative screenshots that will save you and end users, time and learning efforts.
+
+  
+
+*   Always think about what you want to accomplish with your screenshot. In other words. Always think your screenshots over and put them into context. What is your goal when getting the screenshot?
+*   Provide useful information when you’re getting a screenshot, be clear and try not to confuse your readers
+
+*   Show clearly what your objective is when getting a screenshot
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/7074f7ab-c18d-4bba-ab46-d8c75e936cbc/FAQ%20on%20Technical%20Writing.png)
+
+  
+
+*   Design your screenshots by adding some more highlights to your screenshot.
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/72017f91-e2d8-4ab5-8795-3cc5cb791db4/FAQ%20on%20Technical%20Writing%202.png)
+
+  
+
+*   Whenever possible add torn and shadow edges. The torn edge helps readers quickly orient themselves. The shadow edge helps to separate a text and a screenshot.
+*   Always concentrate oil what’s important and eliminate all the background noise 
+*   Remember that if you need a big screenshot you gotta make it small.
+
+This is an incorrect screenshot.
+
+  
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/ac9faa77-72bd-4861-b886-369294b38786/Screen%20Shot%202021-09-07%20at%2011.46.47%202.png)
+
+  
+
+*   This would be the correct form to reduce make a big screenshot.
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/3691ae02-4b33-4857-9a25-bd9c2901abd2/Google.png)
+
+  
+
+*   Use graphic elements on screenshots. For example, this is an incorrect screen capture:
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/4597a6e9-0113-4334-974a-4384f3b6c581/General%20Wand%20Properties.png)
+
+  
+
+This is a correct screen capture
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/66e1e6af-12f8-41fc-8938-90e3becb3e4f/General%20Wand%20Properties%202.png)
+
+  
+
+An alternative way of zooming in attention on an element is zooming it in. That is especially useful for large screenshots containing several small details.
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/32a9ad18-3549-44c8-aea6-fc1d3d08497b/The%20Magic%20Wand%20Manusl.png)
+
+  
+
+Another useful technique is the spotlight, which is supported by some screenshot tools 
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/46d93531-0820-4094-82f0-7e6915e85eac/Insert%20Table.png)
+
+  
+
+  
+
+### Privacy 
+
+  
+
+What to show and what not to show is a big part of security best practices in the workplace.
+
+  
+
+This can frequently happen whenever you’re dealing with registration forms that we’re documenting. You may want to create asocial email account for these purposes or blur or distort the existing address.  Remember not to over do it. 
+
+  
+
+![](https://t2403958.p.clickup-attachments.com/t2403958/6aaf28dd-6b13-40c3-b1f1-a3d8769a8552/email-blur.jpg)
+
+  
+
+  
+
+### Conclusion
+
+  
+
+*   Think about your screenshots and put them into context.
+*   Concentrate on what’s important and cancel any background noise.
+*   If you need a big screenshot you need to make it small
+*   Use graphic elements on screenshots.
+*   Think about privacy )emails, addresses, version details).
+
